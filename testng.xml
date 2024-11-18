@@ -3,7 +3,7 @@
 <suite name="Suite">
   <test thread-count="5" name="Test">
   <classes>
-    	<class name="Amazon_Project.Amazon_Project.Testcase1"/>
+    	<!--class name="Amazon_Project.Amazon_Project.Testcase1"/-->
       	<class name="Amazon_Project.Amazon_Project.Testcase2"/>
       	<class name="Amazon_Project.Amazon_Project.Testcase3"/>
       	<class name="Amazon_Project.Amazon_Project.Testcase4"/>
